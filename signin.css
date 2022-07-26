@@ -1,0 +1,38 @@
+body{
+    background-image: url(netwk.gif);
+}
+.registration{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 30px;
+}
+.registration a{
+    color: black;
+    padding-top: 30px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    /* width: 80px; */
+    padding-top: 10%;
+    }
+.contain{
+    width: 20%;
+    /* border: 1px solid black; */
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: larger;
+    box-shadow: 1px 2px 3px 4px rgba(0, 0, 0, 0.266);
+    border-radius: 8px;
+
+}
+.sign{
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.contain a{
+    text-decoration: none;
+    color: black;
+}

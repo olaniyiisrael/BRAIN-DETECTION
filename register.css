@@ -1,0 +1,33 @@
+body{
+    background-image: url(netwk.gif);
+}
+.registration2{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 30px;
+}
+.registration2 a{
+    color: black;
+    padding-top: 30px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    /* width: 40%; */
+    padding-top: 200px;
+}
+.contain2{
+    width: 20%;
+    /* border: 1px solid black; */
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: larger;
+    box-shadow: 1px 2px 3px 4px rgba(0, 0, 0, 0.176);
+    border-radius: 8px;
+}
+.register{
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
